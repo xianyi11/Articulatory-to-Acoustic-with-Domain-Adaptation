@@ -1,3 +1,6 @@
 # B-mode Ultrasound Tongue Imaging-Based Towards Speaker-Independent Articulatory-to-Acoustic Mapping Using Domain Adaptation
 
 The articulatory-to-acoustic mapping refers to estimating the speech signals leveraging the articulatory information, and its applications are evident in several fields, such as silent speech recognition and synthesis. In this paper, we aim to predict the mel-spectrogram of the audio signals, using midsagittal B-mode ultrasound tongue images of the vocal tract as the input. Recently, deep learning has become the choice of methodology for the estimation task. However, most previous attempts have been constrained to the speaker-dependent scenario, and the performance is greatly decreased for unseen speakers. Here, we present a novel approach towards being speaker-independent, using domain-adaptation and adversarial learning. Objective evaluation is conducted to demonstrate the effectiveness of the proposed method, and three evaluation metrics are used, including the MSE, Structural Similarity Index (SSIM), and complex wavelet Structural Similarity Index (CW-SSIM). The results indicate that our proposed method can achieve superior performance under the speaker-independent scenario. Our code is available at
+
+
+![image](https://user-images.githubusercontent.com/74498528/160410707-e5af1791-2bd6-4be7-a858-7d1697b16a55.png)
