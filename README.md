@@ -5,7 +5,9 @@ The articulatory-to-acoustic mapping refers to estimating the speech signals lev
 
 
 ## Model Architecture
-![image](https://user-images.githubusercontent.com/74498528/160514541-c93b8591-c545-4f8d-a246-6dde6a464760.png)
+<div  align=center>
+  <img src="https://user-images.githubusercontent.com/74498528/160514541-c93b8591-c545-4f8d-a246-6dde6a464760.png"/>
+</div>
 
 ## result
 
