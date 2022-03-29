@@ -14,5 +14,5 @@ Comparison results in term of mean MSE (Lower is better), SSIM and CW-SSIM (Both
 ![image](https://user-images.githubusercontent.com/74498528/160514706-4684b595-f7eb-4727-a683-828bfa760615.png)
 
 
-compare with the true-ground
+compare with the ground-truth
 ![image](https://user-images.githubusercontent.com/74498528/160410707-e5af1791-2bd6-4be7-a858-7d1697b16a55.png)
