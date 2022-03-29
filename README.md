@@ -5,7 +5,7 @@ The articulatory-to-acoustic mapping refers to estimating the speech signals lev
 
 
 ## Model Architecture
-<div  align=center>
+<div align=center>
   <img src="https://user-images.githubusercontent.com/74498528/160514541-c93b8591-c545-4f8d-a246-6dde6a464760.png"/>
 </div>
 
@@ -13,8 +13,9 @@ The articulatory-to-acoustic mapping refers to estimating the speech signals lev
 
 Comparison results in term of mean MSE (Lower is better), SSIM and CW-SSIM (Both metrics ranges between 0 and 1. Higher value denotes better performance, while 1 represents the predicted one is the same as the ground-truth)
 
-![image](https://user-images.githubusercontent.com/74498528/160514706-4684b595-f7eb-4727-a683-828bfa760615.png)
-
+<div align=center>
+  <img src="https://user-images.githubusercontent.com/74498528/160514706-4684b595-f7eb-4727-a683-828bfa760615.png"/>
+</div>
 
 compare with the ground-truth
 ![image](https://user-images.githubusercontent.com/74498528/160410707-e5af1791-2bd6-4be7-a858-7d1697b16a55.png)
